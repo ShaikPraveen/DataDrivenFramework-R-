@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[<br>Verification Failure : expected [abc] but found [xyz]<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Wed_Aug_22_16_24_21_IST_2018.png><img src=Wed_Aug_22_16_24_21_IST_2018.png height=200 width=200></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Add Customer Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Add Customer Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Add Customer Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Add Customer Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Add Customer Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Add Customer Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Add Customer Successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Data Driven Framework Practice" duration-ms="71124" started-at="2018-08-22T10:54:20Z" finished-at="2018-08-22T10:55:31Z">
+    <groups>
+    </groups>
+    <test name="Bank Manager LoginTest" duration-ms="4232" started-at="2018-08-22T10:54:20Z" finished-at="2018-08-22T10:54:25Z">
+      <class name="com.infofactors.testcaes.BankManagerLoginTest">
+        <test-method status="PASS" signature="bankManagerLoginTest()[pri:0, instance:com.infofactors.testcaes.BankManagerLoginTest@74751b3]" name="bankManagerLoginTest" duration-ms="3798" started-at="2018-08-22T10:54:20Z" finished-at="2018-08-22T10:54:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br>Verification Failure : expected [abc] but found [xyz]<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href=Wed_Aug_22_16_24_21_IST_2018.png><img src=Wed_Aug_22_16_24_21_IST_2018.png height=200 width=200></img></a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bankManagerLoginTest -->
+      </class> <!-- com.infofactors.testcaes.BankManagerLoginTest -->
+    </test> <!-- Bank Manager LoginTest -->
+    <test name="Add Customer Test" duration-ms="63514" started-at="2018-08-22T10:54:25Z" finished-at="2018-08-22T10:55:28Z">
+      <class name="com.infofactors.testcaes.AddCustomerTest">
+        <test-method status="PASS" signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.infofactors.testcaes.AddCustomerTest@32502377]" name="addCustomerTest" duration-ms="10188" started-at="2018-08-22T10:54:25Z" data-provider="dp" finished-at="2018-08-22T10:54:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{alerttext=Customer added successfully, lname=shaik, postcode=123456.0, runmode=Y, fname=praveen}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Add Customer Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.infofactors.testcaes.AddCustomerTest@32502377]" name="addCustomerTest" duration-ms="8712" started-at="2018-08-22T10:54:35Z" data-provider="dp" finished-at="2018-08-22T10:54:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{alerttext=Customer added successfully, lname=chowdary, postcode=123456.0, runmode=Y, fname=naveen}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Add Customer Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.infofactors.testcaes.AddCustomerTest@32502377]" name="addCustomerTest" duration-ms="8978" started-at="2018-08-22T10:54:44Z" data-provider="dp" finished-at="2018-08-22T10:54:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{alerttext=Customer added successfully, lname=shaik, postcode=1456225.0, runmode=Y, fname=basha}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Add Customer Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.infofactors.testcaes.AddCustomerTest@32502377]" name="addCustomerTest" duration-ms="8692" started-at="2018-08-22T10:54:53Z" data-provider="dp" finished-at="2018-08-22T10:55:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{alerttext=Customer added successfully, lname=shaik, postcode=45789.0, runmode=Y, fname=suleman}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Add Customer Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.infofactors.testcaes.AddCustomerTest@32502377]" name="addCustomerTest" duration-ms="8955" started-at="2018-08-22T10:55:02Z" data-provider="dp" finished-at="2018-08-22T10:55:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{alerttext=Customer added successfully, lname=cccccc, postcode=645789.0, runmode=Y, fname=sairam}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Add Customer Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.infofactors.testcaes.AddCustomerTest@32502377]" name="addCustomerTest" duration-ms="8622" started-at="2018-08-22T10:55:11Z" data-provider="dp" finished-at="2018-08-22T10:55:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{alerttext=Customer added successfully, lname=bbbbb, postcode=457895.0, runmode=Y, fname=anwar}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Add Customer Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+        <test-method status="PASS" signature="addCustomerTest(java.util.Hashtable)[pri:0, instance:com.infofactors.testcaes.AddCustomerTest@32502377]" name="addCustomerTest" duration-ms="8734" started-at="2018-08-22T10:55:19Z" data-provider="dp" finished-at="2018-08-22T10:55:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{alerttext=Customer added successfully, lname=aaaa, postcode=789456.0, runmode=Y, fname=subbarao}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Add Customer Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+      </class> <!-- com.infofactors.testcaes.AddCustomerTest -->
+    </test> <!-- Add Customer Test -->
+    <test name="Open Account Test" duration-ms="3356" started-at="2018-08-22T10:55:28Z" finished-at="2018-08-22T10:55:31Z">
+      <class name="com.infofactors.testcaes.OpenAccountTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.infofactors.testcaes.OpenAccountTest@7bab3f1a]" name="setUp" is-config="true" duration-ms="39777" started-at="2018-08-22T10:53:41Z" finished-at="2018-08-22T10:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openAccountTest(java.util.Hashtable)[pri:0, instance:com.infofactors.testcaes.OpenAccountTest@7bab3f1a]" name="openAccountTest" duration-ms="3311" started-at="2018-08-22T10:55:28Z" data-provider="dp" finished-at="2018-08-22T10:55:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Currency=Rupee, Customer=praveen shaik}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccountTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.infofactors.testcaes.OpenAccountTest@7bab3f1a]" name="teardown" is-config="true" duration-ms="953" started-at="2018-08-22T10:55:31Z" finished-at="2018-08-22T10:55:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.infofactors.testcaes.OpenAccountTest -->
+    </test> <!-- Open Account Test -->
+  </suite> <!-- Data Driven Framework Practice -->
+</testng-results>

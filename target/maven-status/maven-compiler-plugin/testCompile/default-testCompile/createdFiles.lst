@@ -1,0 +1,15 @@
+com\infofactors\rough\TestTimeStamp.class
+com\infofactors\utilities\ExtentManager.class
+com\infofactors\rough\TestProperties.class
+com\infofactors\rough\TestHostAdd.class
+com\infofactors\utilities\MonitoringMail.class
+com\infofactors\utilities\MonitoringMail$SMTPAuthenticator.class
+com\infofactors\base\TestBase.class
+com\infofactors\testcaes\BankManagerLoginTest.class
+com\infofactors\utilities\MonitoringMail$1.class
+com\infofactors\listeners\CustomListeners.class
+com\infofactors\testcaes\AddCustomerTest.class
+com\infofactors\utilities\TestConfig.class
+com\infofactors\testcaes\OpenAccountTest.class
+com\infofactors\utilities\TestUtil.class
+com\infofactors\utilities\ExcelReader.class

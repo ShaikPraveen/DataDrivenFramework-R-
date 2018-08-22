@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add Customer Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="62.881">
+  <properties />
+  
+  
+            <testcase name="addCustomerTest" time="8.978" classname="com.infofactors.testcaes.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="8.622" classname="com.infofactors.testcaes.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="8.734" classname="com.infofactors.testcaes.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="8.955" classname="com.infofactors.testcaes.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="10.188" classname="com.infofactors.testcaes.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="8.712" classname="com.infofactors.testcaes.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="8.692" classname="com.infofactors.testcaes.AddCustomerTest" />
+      
+</testsuite>
